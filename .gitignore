@@ -1,0 +1,6 @@
+*.exe
+*.out
+*.o
+
+KMeans
+points_5mln_4d_5c.txt
